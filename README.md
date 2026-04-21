@@ -4,9 +4,9 @@
 
 
 
-**Soy Salomé García Grisales, tengo 16 años y estudio en grado once. Me gusta el deporte, la música y pasar tiempo con las personas que quiero. Disfruto la naturaleza porque me da tranquilidad.
+##Soy Salomé García Grisales, tengo 16 años y estudio en grado once. Me gusta el deporte, la música y pasar tiempo con las personas que quiero. Disfruto la naturaleza porque me da tranquilidad.
 
-Me considero una persona empática y positiva. Vivo con mi mamá y mis dos hermanos, quienes son muy importantes para mí. Siempre intento aportar cosas buenas a los demás con pequeños gestos**
+Me considero una persona empática y positiva. Vivo con mi mamá y mis dos hermanos, quienes son muy importantes para mí. Siempre intento aportar cosas buenas a los demás con pequeños gestos##
 
 ## ¿ Que es morkdow ?
 
